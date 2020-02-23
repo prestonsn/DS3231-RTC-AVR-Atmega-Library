@@ -1,8 +1,8 @@
 //
-//  NullWolf DS3231.h
+//  Preston DS3231.h
 //  RTC, EEPROM, TEMP, IIC test
 //
-//  Created by NullWolf on 06/05/16.
+//  Created by Preston Sundar on 06/05/16.
 //  
 //
 
